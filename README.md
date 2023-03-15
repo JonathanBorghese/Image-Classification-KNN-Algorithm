@@ -1,4 +1,4 @@
-# K-Nearest-Neighbor-Algorithm
+# Image-Classification-KNN-Algorithm
 
 This is my implementation of my KNN algorithm
 
